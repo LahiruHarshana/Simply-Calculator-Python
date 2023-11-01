@@ -1,1 +1,1 @@
-operator = input("")
+operator = input("Enter an operator(+ - / *)")
