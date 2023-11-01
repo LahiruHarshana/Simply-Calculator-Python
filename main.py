@@ -4,4 +4,4 @@ num2 = float(input("Enter 2nd Number : "))
 
 if operator == "+":
     result = num1+num2
-elif operator =="-"
+elif operator =="-":
