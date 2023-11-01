@@ -17,5 +17,5 @@ elif operator =="*":
     result = num1*num2
     print(result)
 
-
-print(f"{operator}is not valid operator")
+else:
+    print(f"{operator}is not valid operator")
